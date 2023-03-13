@@ -1,0 +1,19 @@
+current directory: /home/susan/Development/code/phase-4/phase-4-rails-route-params-readme/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+/usr/share/rvm/rubies/ruby-2.7.4/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.4/lib/ruby/site_ruby/2.7.0 extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/susan/Development/code/phase-4/phase-4-rails-route-params-readme/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230313-25377-gxwwao sitelibdir\=./.gem.20230313-25377-gxwwao clean
+
+current directory: /home/susan/Development/code/phase-4/phase-4-rails-route-params-readme/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230313-25377-gxwwao sitelibdir\=./.gem.20230313-25377-gxwwao
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/susan/Development/code/phase-4/phase-4-rails-route-params-readme/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230313-25377-gxwwao sitelibdir\=./.gem.20230313-25377-gxwwao install
+/bin/install -m 0755 cparse.so ./.gem.20230313-25377-gxwwao/racc
+
+current directory: /home/susan/Development/code/phase-4/phase-4-rails-route-params-readme/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230313-25377-gxwwao sitelibdir\=./.gem.20230313-25377-gxwwao clean

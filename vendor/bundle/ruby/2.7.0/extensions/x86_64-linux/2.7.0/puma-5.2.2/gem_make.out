@@ -1,0 +1,22 @@
+current directory: /home/susan/Development/code/phase-4/phase-4-rails-route-params-readme/vendor/bundle/ruby/2.7.0/gems/puma-5.2.2/ext/puma_http11
+/usr/share/rvm/rubies/ruby-2.7.4/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.4/lib/ruby/site_ruby/2.7.0 extconf.rb
+checking for BIO_read() in -lcrypto... no
+checking for BIO_read() in -llibeay32... no
+creating Makefile
+
+current directory: /home/susan/Development/code/phase-4/phase-4-rails-route-params-readme/vendor/bundle/ruby/2.7.0/gems/puma-5.2.2/ext/puma_http11
+make DESTDIR\= sitearchdir\=./.gem.20230313-25377-8qyphu sitelibdir\=./.gem.20230313-25377-8qyphu clean
+
+current directory: /home/susan/Development/code/phase-4/phase-4-rails-route-params-readme/vendor/bundle/ruby/2.7.0/gems/puma-5.2.2/ext/puma_http11
+make DESTDIR\= sitearchdir\=./.gem.20230313-25377-8qyphu sitelibdir\=./.gem.20230313-25377-8qyphu
+compiling http11_parser.c
+compiling mini_ssl.c
+compiling puma_http11.c
+linking shared-object puma/puma_http11.so
+
+current directory: /home/susan/Development/code/phase-4/phase-4-rails-route-params-readme/vendor/bundle/ruby/2.7.0/gems/puma-5.2.2/ext/puma_http11
+make DESTDIR\= sitearchdir\=./.gem.20230313-25377-8qyphu sitelibdir\=./.gem.20230313-25377-8qyphu install
+/bin/install -m 0755 puma_http11.so ./.gem.20230313-25377-8qyphu/puma
+
+current directory: /home/susan/Development/code/phase-4/phase-4-rails-route-params-readme/vendor/bundle/ruby/2.7.0/gems/puma-5.2.2/ext/puma_http11
+make DESTDIR\= sitearchdir\=./.gem.20230313-25377-8qyphu sitelibdir\=./.gem.20230313-25377-8qyphu clean
